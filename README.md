@@ -9,9 +9,7 @@ I also wanted to start programming some of the features of a game I am working o
 While this is a very small step in working on my very own game, it was a huge step
 in learning how Pythn works.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=Upnk7nKcEZU&feature=youtu.be&ab_channel=AdamRathjen)
 
 # Development Environment
 
@@ -23,8 +21,10 @@ I included the json library to store and read a dictionary
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Python Tutorial](https://www.w3schools.com/python/default.asp)
+* [Python Library](https://docs.python.org/3.8/library/index.html)
+* [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
+* [Python official website](https://www.python.org/downloads/)
 
 # Future Work
 
